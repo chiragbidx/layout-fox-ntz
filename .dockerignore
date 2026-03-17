@@ -1,0 +1,28 @@
+# node / deps
+node_modules
+npm-debug.log*
+yarn-error.log*
+
+# git
+.git
+.gitignore
+.gitattributes
+
+# os cruft
+.DS_Store
+Thumbs.db
+
+# build / cache
+.cache
+.dist
+dist
+build
+.out
+
+# logs
+logs
+*.log
+
+# editor
+.vscode
+.idea
